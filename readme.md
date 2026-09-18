@@ -32,6 +32,7 @@ The main design choice is to keep the user interface simple.The program is start
 No external Java library is required.
 ---
 ## Project Structure
+```
 Unique_ID_Generator/
 |
 ├── src/
@@ -50,6 +51,7 @@ Unique_ID_Generator/
 ├── README.md
 ├── statement.md
 └── .gitignore
+```
 ---
 ## Requirements
 Install JDK 8 or newer.
